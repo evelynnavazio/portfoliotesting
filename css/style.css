@@ -1,9 +1,3 @@
-/*
-	Cosmix by TEMPLATE STOCK
-	templatestock.co @templatestock
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
 * {
   margin: 0 auto;
 }
@@ -37,23 +31,23 @@ body {
 }
 /*for-section-text-start-here*/
 ::selection {
-  background: #e73131; /* WebKit/Blink Browsers */
+  background: #7037cd; /* WebKit/Blink Browsers */
   color: #fff;
 }
 ::-webkit-selection {
-  background-color: #e73131;
+  background-color: #7037cd;
   color: #fff;
 }
 ::-ms-selection {
-  background-color: #e73131;
+  background-color: #7037cd;
   color: #fff;
 }
 ::-o-selection {
-  background-color: #e73131;
+  background-color: #7037cd;
   color: #fff;
 }
 ::-moz-selection {
-  background-color: #e73131;
+  background-color: #7037cd;
   color: #fff;
 }
 /* ========================================================================
@@ -190,13 +184,13 @@ strong {
   font-weight: bolder;
 }
 span {
-  color: #e73131;
+  color: #7037cd;
 }
 .space {
   margin: 30px 0px;
 }
 .line {
-  border: 1px solid #e73131;
+  border: 1px solid #7037cd;
   width: 15%;
 }
 a:hover,
@@ -215,7 +209,7 @@ a.btn-down {
 }
 a.btn-down:hover {
   background: #fff;
-  color: #e73131;
+  color: #7037cd;
   transition: all 0.5s;
   -moz-transition: all 0.5s;
   -o-transition: all 0.5s;
@@ -224,15 +218,15 @@ a.btn-down:hover {
 a.btn-order {
   height: 50px;
   width: 50px;
-  color: #e73131;
-  border: 2px solid #e73131;
+  color: #7037cd;
+  border: 2px solid #7037cd;
   padding: 3% 5%;
   font-size: 15px;
   position: relative;
   top: 5px;
 }
 a.btn-order:hover {
-  background: #e73131;
+  background: #7037cd;
   color: #fff;
   transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -240,13 +234,13 @@ a.btn-order:hover {
   -webkit-transition: all 0.5s;
 }
 a.btn-send {
-  color: #e73131;
-  border: 2px solid #e73131;
+  color: #7037cd;
+  border: 2px solid #7037cd;
   padding: 2% 0%;
   font-size: 15px;
 }
 a.btn-send:hover {
-  background: #e73131;
+  background: #7037cd;
   color: #fff;
   transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -280,13 +274,13 @@ a.navbar-brand img {
 }
 #menu ul.nav li a:hover,
 #menu ul.nav li a.active {
-  color: #e73131;
+  color: #7037cd;
   transition: all 0.4s;
 }
 #menu .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #e73131;
+  color: #7037cd;
   background: transparent;
 }
 a.navbar-brand {
@@ -355,7 +349,7 @@ ul.nav li.active a:before {
 }
 .home-carousel-left,
 .home-carousel-right {
-  background-color: #e73131;
+  background-color: #7037cd;
   color: #fff;
   font-size: 32px;
   height: 40px;
@@ -455,7 +449,7 @@ ul.nav li.active a:before {
 }
 /*Background-stylesheets-include-here*/
 .bg-sec {
-  background: #e73131;
+  background: #7037cd;
   margin-top: 10px;
   padding: 1% 0%;
 }
@@ -494,13 +488,13 @@ ul.nav li.active a:before {
   text-align: center;
   width: 64px;
   border-radius: 100%;
-  color: #e73131;
+  color: #7037cd;
   border: 1px solid #d7d7d7;
   transition: background-color 400ms, background-color 400ms;
   position: relative;
 }
 .media.service-box:hover .pull-left > i {
-  background: #e73131;
+  background: #7037cd;
   color: #fff;
   transform: rotateY(360deg);
   -moz-transform: rotate(360deg);
@@ -537,7 +531,7 @@ ul.nav li.active a:before {
   padding-right: 12px;
   font-size: 12px;
   font-weight: 600;
-  background: #e73131;
+  background: #7037cd;
 }
 .progress .progress-bar.six-sec-ease-in-out {
   -webkit-transition: width 2s ease-in-out;
@@ -564,7 +558,7 @@ ul.nav li.active a:before {
 #features .nav-tabs > li.active > a:hover,
 #features .nav-tabs > li.active > a:focus {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.26);
-  border-bottom: 2px solid #e73131;
+  border-bottom: 2px solid #7037cd;
   background: #f8f8f8;
 }
 #features .nav-tabs > li > a {
@@ -585,7 +579,7 @@ ul.nav li.active a:before {
   font-size: 25px;
 }
 #features .nav-tabs > li.active > a i.fa {
-  color: #e73131;
+  color: #7037cd;
 }
 #features .nav-tabs > li > a:hover {
   border-color: transparent;
@@ -636,7 +630,7 @@ ul.nav li.active a:before {
 }
 #portfolio .portfolio-filter > li a:hover,
 #portfolio .portfolio-filter > li a.active {
-  background: #e73131;
+  background: #7037cd;
   color: #fff;
   -webkit-transition-duration: 0.5s;
   -moz-transition-duration: 0.5s;
@@ -656,7 +650,7 @@ ul.nav li.active a:before {
   margin-left: -10px;
   border-width: 10px;
   border-style: solid;
-  border-color: #e73131 transparent transparent transparent;
+  border-color: #7037cd transparent transparent transparent;
 }
 #portfolio .portfolio-filter > li:first-child a {
   border-radius: 4px 0 0 4px;
@@ -693,7 +687,7 @@ ul.nav li.active a:before {
 }
 #portfolio .portfolio-item:hover .portfolio-info i.fa {
   font-size: 30px;
-  color: #e73131;
+  color: #7037cd;
 }
 /* Start: Recommended Isotope styles */
 /**** Isotope Filtering ****/
@@ -853,18 +847,24 @@ ul.nav li.active a:before {
   transition-duration: 0.3s;
 }
 .team-main-sec:hover h5 {
-  color: #e73131;
+  color: #7037cd;
 }
 .team-sec h5 {
   color: #555;
   text-transform: uppercase;
 }
 .team-social-icon {
-  margin-top: 20px;
+  margin-bottom: 50px;
 }
 .team-desc ul.team-social-icon li {
   display: inline-block;
   padding-right: 20px;
+}
+.mb-5 {
+  margin-bottom: 50px;
+}
+.mbottom {
+  margin-bottom: 50px;
 }
 .team-desc ul.team-social-icon li a i.fa {
   font-size: 20px;
@@ -877,7 +877,7 @@ ul.nav li.active a:before {
   color: #55acee;
 }
 .team-desc ul.team-social-icon li a i.fa:hover.fa-pinterest-p {
-  color: #bd081c;
+  color: #7037cd;
 }
 .team-desc ul.team-social-icon li a i.fa:hover.fa-instagram {
   color: #3f729b;
@@ -892,7 +892,7 @@ ul.nav li.active a:before {
   text-align: center;
 }
 #testimonials .owl-theme .owl-controls .owl-page span {
-  background: #e73131;
+  background: #7037cd;
 }
 .quote {
   position: relative;
@@ -962,7 +962,7 @@ ul.nav li.active a:before {
 }
 .blog-info h6:hover,
 .blog-info h5:hover {
-  color: #e73131;
+  color: #7037cd;
   -webkit-transition-duration: 0.3s;
   -moz-transition-duration: 0.3s;
   -ms-transition-duration: 0.3s;
@@ -988,7 +988,7 @@ a.btn-blg {
   color: #666;
 }
 a.btn-blg:hover {
-  color: #e73131;
+  color: #7037cd;
   -webkit-transition-duration: 0.3s;
   -moz-transition-duration: 0.3s;
   -ms-transition-duration: 0.3s;
@@ -1061,7 +1061,7 @@ a.btn-blg:hover {
   color: #666;
 }
 .contact-sec-1 ul li a:hover {
-  color: #e73131;
+  color: #7037cd;
   -webkit-transition-duration: 0.3s;
   -moz-transition-duration: 0.3s;
   -ms-transition-duration: 0.3s;
@@ -1136,8 +1136,8 @@ textarea.form-control {
   border: 2px solid #dd4b39;
 }
 #footer-down ul li.youtube i.fa:hover {
-  color: #bb0000;
-  border: 2px solid #bb0000;
+  color: #7037cd;
+  border: 2px solid #7037cd;
 }
 #footer-down ul li.instagram i.fa:hover {
   color: #517fa4;
@@ -1154,7 +1154,7 @@ textarea.form-control {
 
 /*Full-screen-menu-stylesheet-include-here*/
 .top-animate {
-  background: #e73131 !important;
+  background: #7037cd !important;
   top: 13px !important;
   -webkit-transform: rotate(45deg);
   /* Chrome, Safari, Opera */
@@ -1164,7 +1164,7 @@ textarea.form-control {
   opacity: 0;
 }
 .bottom-animate {
-  background: #e73131 !important;
+  background: #7037cd !important;
   top: 13px !important;
   -webkit-transform: rotate(-225deg);
   /* Chrome, Safari, Opera */
@@ -1188,7 +1188,7 @@ textarea.form-control {
   top: 21px;
 }
 .menui {
-  background: #e73131;
+  background: #7037cd;
   transition: 0.6s ease;
   transition-timing-function: cubic-bezier(0.75, 0, 0.29, 1.01);
   margin-top: 10px;
@@ -1323,15 +1323,15 @@ textarea.form-control {
 a.btn-learn {
   height: 50px;
   width: 50px;
-  color: #e73131;
-  border: 2px solid #e73131;
+  color: #7037cd;
+  border: 2px solid #7037cd;
   padding: 1% 2%;
   font-size: 15px;
   position: relative;
   top: 40px;
 }
 a.btn-learn:hover {
-  background: #e73131;
+  background: #7037cd;
   color: #fff;
   transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -1363,8 +1363,6 @@ a.btn-learn:hover {
   text-align: center;
   color: #fff;
   text-shadow: none;
-}
-.slide-sec {
 }
 
 .slide-sec-1 {

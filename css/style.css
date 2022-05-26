@@ -204,7 +204,7 @@ a.btn-down {
   border: 2px solid #fff;
   padding: 5% 10%;
   position: relative;
-  top: 35px;
+  top: 20px;
   font-size: 17px;
 }
 a.btn-down:hover {
@@ -304,7 +304,7 @@ ul.nav li.active a:before {
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 650px;
+  height: 100vh;
 }
 #home-carousel .item:before {
   background-color: #000;
@@ -424,9 +424,12 @@ ul.nav li.active a:before {
 /*About-stylesheets-include-here*/
 #about {
   padding: 3% 0%;
+  height: 80vh;
+  overflow: hidden;
 }
 #about .heading {
   text-align: center;
+  margin-bottom: 8vh;
 }
 .heading h2 {
   font-family: "helvetica_ce_55_romanregular";
@@ -452,6 +455,7 @@ ul.nav li.active a:before {
   background: #7037cd;
   margin-top: 10px;
   padding: 1% 0%;
+  height: 10vh;
 }
 .bg-sec h3 {
   color: #ffffff;

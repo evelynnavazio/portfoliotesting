@@ -424,12 +424,21 @@ ul.nav li.active a:before {
 /*About-stylesheets-include-here*/
 #about {
   padding: 3% 0%;
-  height: 80vh;
+  height: 110vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+#knowledge {
+  height: 100vh;
+  width: auto;
   overflow: hidden;
 }
 #about .heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
-  margin-bottom: 8vh;
 }
 .heading h2 {
   font-family: "helvetica_ce_55_romanregular";
@@ -442,6 +451,7 @@ ul.nav li.active a:before {
 }
 .ab-sec {
   text-align: justify;
+  margin: 10vh 0vh;
 }
 .ab-sec h3 {
   font-weight: bolder;
@@ -455,7 +465,6 @@ ul.nav li.active a:before {
   background: #7037cd;
   margin-top: 10px;
   padding: 1% 0%;
-  height: 10vh;
 }
 .bg-sec h3 {
   color: #ffffff;
@@ -466,9 +475,12 @@ ul.nav li.active a:before {
   color: #ffffff;
 }
 /*Service-stylesheets-include-here*/
-#service {
+
+.service {
   text-align: center;
   padding: 2% 0%;
+  height: 100vh;
+  display: flex;
 }
 #features-sec {
   padding: 100px 0;
@@ -519,6 +531,10 @@ ul.nav li.active a:before {
 /*Experience-stylesheets-include-here*/
 .experience {
   margin-top: 30px;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .progress {
   height: 20px;
@@ -1033,8 +1049,12 @@ a.btn-blg:hover {
 }
 /*Contact-stylesheets-include-here*/
 #contact {
+  width: 100%;
   text-align: center;
   padding: 3% 0% 0% 2%;
+  display: flex;
+  align-items: center;
+  height: 70vh;
 }
 .contact-sec-1 {
   text-align: left;
@@ -1107,7 +1127,7 @@ textarea.form-control {
 }
 #footer-down h2 {
   color: #444;
-  margin: 20px 0px 40px 0px;
+  margin: 0px 0px 40px 0px;
   text-transform: none;
 }
 #footer-down ul li {
